@@ -8,7 +8,7 @@ export default function soratra() {
   return (
     <div className='sol'>soratra
     <h1>
-        Bonjour
+        Bonjour daholo
         <img src= {Im}/>
         
         
