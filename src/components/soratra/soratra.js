@@ -10,8 +10,6 @@ export default function soratra() {
     <h1>
         Bonjour daholo
         <img src= {Im}/>
-        
-        
       </h1>
     </div>
   )

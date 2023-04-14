@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
- import Sol from './components/soratra/soratra'; 
-import He from './components/header/header';
-import Type from './components/type/type';
+import { Voiture } from './Voiture';
+ 
 
 function App() {
 
@@ -10,10 +9,8 @@ function App() {
 
   return (
     <div>
-      <He />    
-      <Type />    
-      <Sol />    
-
+    OK
+      <Voiture/>
 
       
     </div>

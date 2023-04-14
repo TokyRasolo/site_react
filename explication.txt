@@ -1,0 +1,15 @@
+creer projet react :
+
+npx create-react-app nom_project
+
+cd nom_project
+npm start
+
+npx create-react-app .
+
+npm start
+
+mamorona fichier dia avieo tape: rfc
+ documentatioin react npmjs.com ou reactjs.com
+ milancer projet nalaina git hub misy react npm install / npm i
+git init
